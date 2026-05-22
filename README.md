@@ -9,4 +9,4 @@ Dosyaları hedef klasöre bırakın ve oyununuz Türkçe olsun. Fakat sakın def
 
 Şimdiden iyi oyunlar! 
 
-(Hâlâ çevrilmemiş 4-5 yer var ama merak etmeyin, büyük metinler değil, nazar boncuğu olarak kalsın.)
+(Hâlâ çevrilmemiş yerler var ama merak etmeyin, büyük metinler değil, nazar boncuğu olarak kalsın.)
