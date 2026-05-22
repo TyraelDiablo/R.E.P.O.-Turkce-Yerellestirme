@@ -1,0 +1,194 @@
+BIG_MESSAGE.EXTRACTION.ACTIVATED	Çıkarma noktası aktif edildi
+BIG_MESSAGE.EXTRACTION.COMPLETED	Çıkarma noktası tamamlandı
+FOCUS.EXTRACTION.FILL_VALUABLES	Çıkarma noktasını ganimetlerle doldur
+FOCUS.EXTRACTION.AVOID_GRENADES	Bombalardan kaçın!
+FOCUS.EXTRACTION.FIND_NEXT	Bir sonraki çıkarma noktasını bul
+FOCUS.EXTRACTION.BACK_TO_TRUCK	Kamyona geri dön!
+TUTORIAL.TRANSITION_TEXT	Harika iş!
+TUTORIAL.MOVEMENT.TEXT	Hareket etmek için [move] komutunu kullan.
+TUTORIAL.MOVEMENT.FOCUS_TEXT	İlerleme çubuğunu doldurmak için hareket et!
+TUTORIAL.MOVEMENT.DUMMY_TEXT	İlerleme çubuğu dolana kadar klavyendeki [move] komutunu kullan!
+TUTORIAL.JUMPING.TEXT	Zıplamak için [jump] tuşuna bas.
+TUTORIAL.JUMPING.FOCUS_TEXT	İlerleme çubuğunu doldurmak için zıpla!
+TUTORIAL.JUMPING.DUMMY_TEXT	İlerleme çubuğu dolana kadar [jump] tuşuna basarak zıplamaya devam et!
+TUTORIAL.SNEAKING.TEXT	Gizlenmek için [crouch] tuşuna bas. Canavarların seni görme ihtimali azalır.
+TUTORIAL.SNEAKING.FOCUS_TEXT	İlerleme çubuğunu doldurmak için gizlen!
+TUTORIAL.SNEAKING.DUMMY_TEXT	İlerleme çubuğu dolana kadar [crouch] tuşunu basılı tut ve [move] komutunu kullan!
+TUTORIAL.HIDING.TEXT	Bir şeylerin altına gizlenmek ve saklanmak için [crouch] kullan.
+TUTORIAL.HIDING.FOCUS_TEXT	İlerleme çubuğunu doldurmak için saklan!
+TUTORIAL.HIDING.DUMMY_TEXT	[crouch] tuşunu basılı tutarak bir eşyanın altına gir ve ilerleme çubuğu dolana kadar orada bekle!
+TUTORIAL.SPRINTING.TEXT	Depar atmak için [sprint] tuşunu basılı tut. Bu enerji tüketir.
+TUTORIAL.SPRINTING.FOCUS_TEXT	İlerleme çubuğunu doldurmak için depar at!
+TUTORIAL.SPRINTING.DUMMY_TEXT	İlerleme çubuğunu doldurana kadar [sprint] tuşunu basılı tut ve [move] komutunu kullan!
+TUTORIAL.TUMBLING.TEXT	Koş ve tarzla düşmek için [tumble] tuşuna bas. Zıplamak da işe yarar!
+TUTORIAL.TUMBLING.FOCUS_TEXT	İlerleme çubuğunu doldurmak için koş, zıpla ve düş!
+TUTORIAL.TUMBLING.DUMMY_TEXT	[sprint] ile koş, [jump] ile zıpla ve kendini fırlatmak için [tumble] tuşuna bas. İlerleme çubuğu dolana kadar bunu yap!
+TUTORIAL.GRABBING.TEXT	Nesneleri [grab] kullanarak yakala.
+TUTORIAL.GRABBING.FOCUS_TEXT	İlerleme çubuğunu doldurmak için o nesneyi taşı!
+TUTORIAL.GRABBING.DUMMY_TEXT	İlerleme çubuğunu doldurana kadar bir nesnenin üzerinde [grab] tuşunu basılı tut!
+TUTORIAL.PUSHING_AND_PULLING.TEXT	Yakalanan nesnelerin mesafesini ayarlamak için [push] kullan.
+TUTORIAL.PUSHING_AND_PULLING.FOCUS_TEXT	Yakalanan nesnenin mesafesini değiştir!
+TUTORIAL.PUSHING_AND_PULLING.DUMMY_TEXT	Bir nesne üzerinde [grab] tuşunu basılı tut ve yakaladığın nesnenin mesafesini ayarlamak için [push] kullan!
+TUTORIAL.ROTATING.TEXT	[grab2] kullanarak yakalanan nesneleri döndür.
+TUTORIAL.ROTATING.FOCUS_TEXT	İlerleme çubuğunu doldurmak için nesneleri döndür!
+TUTORIAL.ROTATING.DUMMY_TEXT	[grab] ile bir nesneyi tutarken, [grab2] tuşunu basılı tut ve döndürmek için nişanını hareket ettir. İlerleme çubuğu dolana kadar döndür!
+TUTORIAL.ITEM_TOGGLING.TEXT	Eşyaları açıp kapatmak için yakala ve [interact] tuşuna bas.
+TUTORIAL.ITEM_TOGGLING.FOCUS_TEXT	O nesneyi açıp kapat!
+TUTORIAL.ITEM_TOGGLING.DUMMY_TEXT	[grab] ile topu yakala ve ilerleme çubuğu dolana kadar [interact] kullanarak onu açıp kapat!
+TUTORIAL.INVENTORY_FILL.TEXT	Bir eşyayı yakala ve envanterine koymak için [inventory1]/[inventory2]/[inventory3] tuşlarını kullan.
+TUTORIAL.INVENTORY_FILL.FOCUS_TEXT	Tüm envanterini doldur!
+TUTORIAL.INVENTORY_FILL.DUMMY_TEXT	[grab] ile bir eşya tutarken [inventory1]/[inventory2]/[inventory3] tuşlarına bas. İlerleme çubuğunu tamamlamak için envanterindeki tüm boşlukları doldur!
+TUTORIAL.INVENTORY_EMPTY.TEXT	Eşyaları envanterinden çıkarmak için [inventory1]/[inventory2]/[inventory3] tuşlarını kullan.
+TUTORIAL.INVENTORY_EMPTY.FOCUS_TEXT	Tüm envanterini boşalt!
+TUTORIAL.INVENTORY_EMPTY.DUMMY_TEXT	[inventory1]/[inventory2]/[inventory3] tuşlarını kullan ve ilerleme çubuğunu doldurmak için tüm boşlukları boşalt!
+TUTORIAL.MAP.TEXT	Haritayı görüntülemek için [map] tuşunu kullan. Harita yön bulma için <b><u>ÖNEMLİDİR</u></b>.
+TUTORIAL.MAP.FOCUS_TEXT	Haritayı kontrol et!
+TUTORIAL.MAP.DUMMY_TEXT	[map] tuşunu basılı tut ve ilerleme çubuğunu doldurana kadar haritaya bak!
+TUTORIAL.CART_HANDLING_1.TEXT	Bu bir S.E.P.E.T. Onu tutamağından yakala.
+TUTORIAL.CART_HANDLING_1.FOCUS_TEXT	S.E.P.E.T. ile biraz etrafta dolaş!
+TUTORIAL.CART_HANDLING_1.DUMMY_TEXT	S.E.P.E.T.'i [grab] ile tutamağından yakala ve ilerleme çubuğunu doldurana kadar onunla etrafta dolaş!
+TUTORIAL.CART_HANDLING_2.TEXT	S.E.P.E.T.'i ganimetlerle doldur. S.E.P.E.T.'ler daha fazla eşya taşımak için <b><u>ÖNEMLİDİR</u></b>.
+TUTORIAL.CART_HANDLING_2.FOCUS_TEXT	S.E.P.E.T.'i ganimetlerle doldur!
+TUTORIAL.CART_HANDLING_2.DUMMY_TEXT	S.E.P.E.T.'in içine üç eşya koy.
+TUTORIAL.EXTRACTION_POINTS.TEXT	<b><u>ÇIKARMA NOKTALARINI</u></b> aktif et ve ganimetlerle doldur.
+TUTORIAL.EXTRACTION_POINTS.FOCUS_TEXT	Ganimetleri çıkar!
+TUTORIAL.EXTRACTION_POINTS.DUMMY_TEXT	MERHABA!
+TUTORIAL.EXTRACTION_POINTS.DUMMY_TEXT	<b><u>ÇIKARMA NOKTASINI</u></b> GANİMETLERLE DOLDUR!
+TUTORIAL.TRUCK.TEXT	Bölümden ayrılmak için <b><u>KAMYONA</u></b> gir ve patronuna bir mesaj gönder.
+TUTORIAL.TRUCK.FOCUS_TEXT	Kamyona gir ve bir mesaj gönder!
+TUTORIAL.TRUCK.DUMMY_TEXT	Kamyonun içine yürü, bir mesaj göndermek için kamyon ekranındaki mesaj alanını [grab] ile yakala ve basılı tut!
+TUTORIAL.HEALING.TEXT	Diğer oyuncuların boyunlarını yakalayarak canınızı onlarla paylaşın!
+TUTORIAL.REVIVING.TEXT	Diğer oyuncuların kafalarını çıkartarak onları canlandırın!
+TUTORIAL.CHARGING_STATION.TEXT	Ekipmanınızı şarj etmek ve onarmak için <b><u>ŞARJ İSTASYONUNA</u></b> <b><u>GÜÇ KRİSTALLERİ</u></b> satın alın!
+TUTORIAL.ONLY_ONE_EXTRACTION.TEXT	Aynı anda sadece bir <b><u>TAHLİYE NOKTASI</u></b> aktif olabilir, güncel olanı haritandan bul!
+TUTORIAL.CHAT.TEXT	Sohbeti açmak için [chat] tuşuna bas! Eğlencelidir!
+TUTORIAL.FINAL_EXTRACTION.TEXT	Ayrılma vakti, kamyon seni iyileştirir ve taşınan oyuncu kafalarını canlandırır!
+TUTORIAL.MULTIPLE_EXTRACTIONS.TEXT	Bu bölümde birden fazla <b><u>TAHLİYE NOKTASI</u></b> var, ayrılmak için hepsini temizlemelisin!
+TUTORIAL.SHOP.TEXT	Burası <b><u>MAĞAZA</u></b>, satın almak için eşyaları buraya ulaştırın. Burada hiçbir zarar kalıcı değildir!
+TUTORIAL.EXPRESSIONS.TEXT	İfade bırakmak için [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6] tuşlarını kullan.
+TUTORIAL.EXPRESSIONS.TEXT	Hatta karıştırabilirsin de!
+TUTORIAL.OVERCHARGE_1.TEXT	Bir düşmanı yakalamak artık aşırı şarja neden olacak, bar dolduğunda havaya uçarsın.
+TUTORIAL.OVERCHARGE_2.TEXT	Birden fazla kişi aşırı şarj etkisini hafifletecektir.
+TUTORIAL.HEAD_SPECTATE_1.TEXT	Ölüyken kafan şarj olur, kafanı kısa süreliğine kontrol etmek için bu şarjı kullan.
+TUTORIAL.HEAD_SPECTATE_2.TEXT	Kafanı kontrol ederken, zıplamak için [jump] tuşunu basılı tut. Daha büyük bir bedelle daha yükseğe zıplamak için basılı tutmaya devam et.
+TUTORIAL.ENEMY_ELSA.TEXT	KÖPEĞİ SEV!
+MOON_UI.SKIP	Geçmek için [menu]
+TUTORIAL.EXTRACTION_REMINDER.TEXT	<b><u>ÇIKARMA NOKTALARINI</u></b> ganimetlerle doldur.
+TUTORIAL.COSMETIC_WORLD_OBJECT_1.TEXT	Bu bir <b><u>KOZMETİK KUTUSU</u></b>, bir ödül almak için onu çıkar.
+TUTORIAL.COSMETIC_WORLD_OBJECT_2.TEXT	Hasar görürse, kendi canını kullanarak onu <b><u>İYİLEŞTİREBİLİRSİN</u></b>.
+TUTORIAL.COSMETIC_SHOP_MACHINE.TEXT	Ödüllerini talep etmek için mağaza makinesine <b><u>VERGİ JETONLARI</u></b> yerleştir.
+FOCUS.PREFIX	AMAÇ
+FOCUS.SHOP.INTRO	Mağazadan bir şeyler satın al
+FOCUS.TRUCK.INTRO	Yolculuğun tadını çıkar, eşyaları şarj et ve HAZIRLAN!
+COSMETIC_SHOP_MACHINE.INFO_TEXT	Vergi jetonu yüklemek için [interact] tuşuna bas
+ITEM.CART_CANNON	S.E.P.E.T. Topu
+ITEM.CART_LASER	S.E.P.E.T. Lazeri
+ITEM.CART_MEDIUM	S.E.P.E.T.
+ITEM.CART_SMALL	CEP S.E.P.E.T.İ
+ITEM.DRONE_BATTERY	Şarj Uçangözü
+ITEM.DRONE_FEATHER	Tüy Uçangözü
+ITEM.DRONE_INDESTRUCTIBLE	Yok Edilemez Uçangöz
+ITEM.DRONE_TORQUE	Taklacı Uçangöz
+ITEM.DRONE_ZERO_GRAVITY	Yerçekimsiz Uçangöz
+ITEM.DUCK_BUCKET	Ördek Kovası
+ITEM.EXTRACTION_TRACKER	Çıkarma Takipçisi
+ITEM.GRENADE_DUCT_TAPED	Koli Bantlı El Bombaları
+ITEM.GRENADE_EXPLOSIVE	El Bombası
+ITEM.GRENADE_HUMAN	Canlı El Bombası
+ITEM.GRENADE_SHOCKWAVE	Şok Dalgası Bombası
+ITEM.GRENADE_STUN	Şok Bombası
+ITEM.GUN_HANDGUN	Tabanca
+ITEM.GUN_LASER	Foton Patlatıcı
+ITEM.GUN_SHOCKWAVE	Darbe Tabancası
+ITEM.GUN_SHOTGUN	Pompalı Tüfek
+ITEM.GUN_STUN	Şok Silahı
+ITEM.GUN_TRANQ	Bayıltıcı Silah
+ITEM.HEALTH_PACK_LARGE	Büyük Sağlık Paketi (100)
+ITEM.HEALTH_PACK_MEDIUM	Orta Sağlık Paketi (50)
+ITEM.HEALTH_PACK_SMALL	Küçük Sağlık Paketi (25)
+ITEM.LEAF_BLOWER	Yaprak Üfleyici
+ITEM.MELEE_BASEBALL_BAT	Beyzbol Sopası
+ITEM.MELEE_FRYING_PAN	Tava
+ITEM.MELEE_INFLATABLE_HAMMER	Şişme Çekiç
+ITEM.MELEE_SLEDGE_HAMMER	Balyoz
+ITEM.MELEE_STUN_BATON	Elektrikli Jop
+ITEM.MELEE_SWORD	Kılıç
+ITEM.MINE_EXPLOSIVE	Patlayıcı Mayın
+ITEM.MINE_SHOCKWAVE	Şok Dalgası Mayını
+ITEM.MINE_STUN	Tuzak Mayını
+ITEM.ORB_ZERO_GRAVITY	Yerçekimsiz Küre
+ITEM.PHASE_BRIDGE	Faz Köprüsü
+ITEM.POWER_CRYSTAL	Enerji Kristali
+ITEM.REVIVE_ITEM	Defibratör
+ITEM.RUBBER_DUCK	Plastik Ördek
+ITEM.STAFF_TORQUE	Taklacı Asa
+ITEM.STAFF_VOID	Boşluk Asası
+ITEM.STAFF_ZERO_GRAVITY	Yerçekimsiz Asa
+ITEM.UPGRADE_DEATH_HEAD_BATTERY	Kuru Kafa Bataryası Geliştirmesi
+ITEM.UPGRADE_MAP_PLAYER_COUNT	Harita Oyuncu Sayısı Geliştirmesi
+ITEM.UPGRADE_PLAYER_CROUCH_REST	Eğilme Dinlenmesi Geliştirmesi
+ITEM.UPGRADE_PLAYER_ENERGY	Dayanıklılık Geliştirmesi
+ITEM.UPGRADE_PLAYER_EXTRA_JUMP	Ek Zıplama Geliştirmesi
+ITEM.UPGRADE_PLAYER_GRAB_RANGE	Menzil Geliştirmesi
+ITEM.UPGRADE_PLAYER_GRAB_STRENGTH	Güç Geliştirmesi
+ITEM.UPGRADE_PLAYER_HEALTH	Sağlık Geliştirmesi
+ITEM.UPGRADE_PLAYER_SPRINT_SPEED	Depar Hızı Geliştirmesi
+ITEM.UPGRADE_PLAYER_TUMBLE_CLIMB	Takla Tırmanışı Geliştirmesi
+ITEM.UPGRADE_PLAYER_TUMBLE_LAUNCH	Takla Kapış Fırlatması Geliştirmesi
+ITEM.UPGRADE_PLAYER_TUMBLE_WINGS	Takla Kanatları Geliştirmesi
+ITEM.VALUABLE_TRACKER	Ganimet Takipçisi
+ITEM.VEHICLE_SEMISCOOTER	Yükleyici
+ITEM.VEHICLE_SEMISCOOTER_SMALL	İzci
+ITEM.WALKIE_TALKIE	Telsiz
+ITEM.WALKIE_TALKIE_BOX	Telsiz Kutusu
+STATS.UPGRADES.HEADER	Geliştirmeler
+LEVEL.HEADER	Seviye
+STATS.UPGRADE.CROUCH_REST	Eğilme Dinlenmesi
+STATS.UPGRADE.DEATH_HEAD_BATTERY	Kuru Kafa Bataryası
+STATS.UPGRADE.EXTRA_JUMP	Ek Zıplama
+STATS.UPGRADE.HEALTH	Sağlık
+STATS.UPGRADE.LAUNCH	Takla Kapış Fırlatması
+STATS.UPGRADE.MAP_PLAYER_COUNT	Harita Oyuncu Sayısı
+STATS.UPGRADE.RANGE	Menzil
+STATS.UPGRADE.SPEED	Depar Hızı
+STATS.UPGRADE.STAMINA	Dayanıklılık
+STATS.UPGRADE.STRENGTH	Güç
+STATS.UPGRADE.TUMBLE_CLIMB	Takla Tırmanışı
+STATS.UPGRADE.TUMBLE_WINGS	Takla Kanatları
+ENEMY.ANIMAL	Hayvan
+ENEMY.BANG	Patlatıcı
+ENEMY.BEAMER	Palyaço
+ENEMY.BIRTHDAY_BOY	Doğum Günü Çocuğu
+ENEMY.BOMB_THROWER	Temizlik Ekibi
+ENEMY.BOWTIE	Papyon
+ENEMY.CEILING_EYE	Gözcü
+ENEMY.DUCK	Yırtıcı
+ENEMY.ELSA	Elsa
+ENEMY.FLOATER	Medyum
+ENEMY.GNOME	Cüce
+ENEMY.HEAD	Kafadar
+ENEMY.HEAD_GRABBER	Kafa Avcısı
+ENEMY.HEART_HUGGER	Kalp Kucaklayıcı
+ENEMY.HIDDEN	Gizlenmiş
+ENEMY.HUNTER	Avcı
+ENEMY.OOGLY	Ucube
+ENEMY.ROBE	Cübbeli
+ENEMY.RUNNER	Azrail
+ENEMY.SHADOW	Gölge
+ENEMY.SLOW_MOUTH	Kusmuk
+ENEMY.SLOW_WALKER	Aksak
+ENEMY.SPINNY	Kumarbaz
+ENEMY.THIN_MAN	Gölge Çocuk
+ENEMY.TICK	Kene
+ENEMY.TRICYCLE	Bella
+ENEMY.TUMBLER	Şef
+ENEMY.UPSCREAM	Çığlık
+ENEMY.VALUABLE_THROWER	Yaramaz
+UPGRADE_STAND.INTERACT	Yeniden Stoklamak İçin Basılı Tut ({cost})
+ARENA.WINNER.KING	Ezıklerın Kralı!
+ARENA.WINNER.LOSERS	Herkes Ezik!
+ARENA.MESSAGE.LAST_LOSER_STANDING	Ayakta Kalan Son Ezik!
+ARENA.MESSAGE.GAME_OVER	Oyun Bitti
+SPECTATE_LIST.HEADER	Parçalanlar:
+ITEM.CART.MODE_STRONG	Mod: Güçlü
+ITEM.CART.MODE_WEAK	Mod: Zayıf
