@@ -7,6 +7,6 @@ REPO/REPO_Data/StreamingAssets/Localization/
 
 Dosyaları hedef klasöre bırakın ve oyununuz Türkçe olsun. Fakat sakın default klasörüne dokunmayın!!! 
 
-Şimdiden iyi oyunlar! 
+Şimdiden iyi oyunlar! (Son sürüme uygundur.)
 
 (Hâlâ çevrilmemiş yerler var ama merak etmeyin, büyük metinler değil, nazar boncuğu olarak kalsın.)
