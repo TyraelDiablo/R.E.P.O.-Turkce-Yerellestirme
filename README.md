@@ -7,6 +7,6 @@ REPO/REPO_Data/StreamingAssets/Localization/
 
 Dosyaları hedef klasöre bırakın ve oyununuz Türkçe olsun. Fakat sakın default klasörüne dokunmayın!!! 
 
-Şimdiden iyi oyunlar! Düzenlemek istiyorsanız VSC kullanmanızı öneririm. (Son sürüme uygundur.)
+Şimdiden iyi oyunlar! Düzenlemek istiyorsanız VSC kullanmanızı öneririm. (Son sürümle uygundur.)
 
 (Hâlâ çevrilmemiş yerler var ama merak etmeyin, büyük metinler değil, nazar boncuğu olarak kalsın.)
