@@ -252,6 +252,7 @@ PASSWORD.HEADER	Şifre
 PASSWORD.SKIP	Geç
 LOBBY.SETTINGS	Ayarlar
 LOBBY.CUSTOMIZE	Özelleştir
+POPUP.START_GAME.HEADER	Oyunu Başlat
 POPUP.START_GAME.BODY	Herkes hazır mı?\n\nOyun başladıktan sonra\nyeni oyuncular katılamaz.
 POPUP.START_GAME.OPT1	Evet!
 POPUP.START_GAME.OPT2	Hayır, bekle!
