@@ -10,3 +10,11 @@ Dosyaları hedef klasöre bırakın ve oyununuz Türkçe olsun. Fakat sakın def
 Şimdiden iyi oyunlar! Düzenlemek istiyorsanız VSC kullanmanızı öneririm. (Son sürümle uygundur.)
 
 (Hâlâ çevrilmemiş yerler var ama merak etmeyin, büyük metinler değil, nazar boncuğu olarak kalsın.)
+
+Lisans: Bu proje MIT Lisansı altında dağıtılmaktadır.
+
+Yürütülebilir Dosyalar: Bu yama, oyunun hiçbir yürütülebilir dosyasını (.exe, .dll vb.) içermez, değiştirmez veya dağıtmaz.
+
+Fikri Mülkiyet: Tüm oyun varlıkları ve fikri mülkiyet hakları Semiwork firmasına aittir.
+
+Orijinal Kopya: Bu yamayı kullanmak için oyunun orijinal ve lisanslı bir kopyasına sahip olmanız gerekmektedir. Lütfen korsan yazılımları desteklemeyin.
