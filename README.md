@@ -18,3 +18,5 @@ Yürütülebilir Dosyalar: Bu yama, oyunun hiçbir yürütülebilir dosyasını 
 Fikri Mülkiyet: Tüm oyun varlıkları ve fikri mülkiyet hakları Semiwork firmasına aittir.
 
 Orijinal Kopya: Bu yamayı kullanmak için oyunun orijinal ve lisanslı bir kopyasına sahip olmanız gerekmektedir. Lütfen korsan yazılımları desteklemeyin.
+
+Sorumluluk Reddi: Bu yama "olduğu gibi" sağlanmıştır; kurulumdan veya kullanımdan kaynaklanabilecek herhangi bir veri kaybı, sistem hatası veya oyunun çalışmaması gibi durumlardan yazar (TyraelDiablo) sorumlu tutulamaz.
