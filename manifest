@@ -1,0 +1,13 @@
+{
+  "name": "R.E.P.O._TR_Yama",
+  "version": "1.0.0",
+  "author": "TyraelDiablo",
+  "description": "R.E.P.O. oyunu için hazırlanan Türkçe yerelleştirme yaması.",
+  "dependencies": {
+    "R.E.P.O.": "1.0.3"
+  },
+  "type": "Localization",
+  "website": "https://github.com/TyraelDiablo/R.E.P.O.-Turkce-Yerellestirme"
+}
+
+
