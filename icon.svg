@@ -1,22 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="128" viewBox="0 0 512 128" fill="none">
   <rect width="512" height="128" fill="none"/>
-  <!-- Flag group (left) -->
-  <g transform="translate(28,32)">
-    <rect x="0" y="0" width="8" height="64" fill="#6b4f3a"/>
-    <g transform="translate(12,0) scale(1.8)">
-      <rect x="0" y="0" width="56" height="36" rx="2" ry="2" fill="#E30A17"/>
-      <!-- crescent: circle minus smaller circle -->
-      <g transform="translate(20,18)">
-        <circle cx="0" cy="0" r="7" fill="#fff"/>
-        <circle cx="3.1" cy="0" r="5.2" fill="#E30A17"/>
-      </g>
-      <!-- star -->
-      <polygon points="30,10 32,14 36,14 33,17 34,21 30,19 26,21 27,17 24,14 28,14"
-               fill="#fff" transform="translate(-6,0) scale(0.9)"/>
+  <!-- Small flag (no pole) -->
+  <g transform="translate(28,36) scale(1.4)">
+    <rect x="0" y="0" width="56" height="36" rx="4" ry="4" fill="#E30A17"/>
+    <g transform="translate(18,18)">
+      <circle cx="0" cy="0" r="7" fill="#fff"/>
+      <circle cx="3.1" cy="0" r="5.2" fill="#E30A17"/>
     </g>
+    <polygon points="30,10 32,14 36,14 33,17 34,21 30,19 26,21 27,17 24,14 28,14"
+             fill="#fff" transform="translate(-6,0) scale(0.9)"/>
   </g>
-  <!-- Semibot text -->
-  <text x="120" y="78" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="56" fill="#00ADEF" font-weight="700">
+
+  <!-- Semibot text (centered vertically with flag) -->
+  <text x="120" y="78" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="56" fill="#007fbf" font-weight="700">
     Semibot
   </text>
 </svg>
