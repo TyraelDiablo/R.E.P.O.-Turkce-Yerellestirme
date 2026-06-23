@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 24 24" fill="none" stroke="none"> <rect width="24" height="24" fill="none"/> <g transform="translate(0,0)"> <path d="M13 2L3 14h7l-1 8L21 10h-7l-1-8z" fill="#FFC107"/> </g> <!-- TR rozeti: sağ üst köşeye küçük yuvarlak --> <g transform="translate(16,2)"> <circle cx="4" cy="4" r="3.2" fill="#E30A17"/> <text x="4" y="5" font-family="Arial, Helvetica, sans-serif" font-size="4" fill="#ffffff" font-weight="700" text-anchor="middle">TR</text> </g> </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 24 24" fill="none" stroke="none">
+  <rect width="24" height="24" fill="none"/>
+  <g transform="translate(0,0)">
+    <path d="M13 2L3 14h7l-1 8L21 10h-7l-1-8z" fill="#FFC107"/>
+  </g>
+  <!-- TR rozeti: sağ üst köşeye küçük yuvarlak -->
+  <g transform="translate(16,2)">
+    <circle cx="4" cy="4" r="3.2" fill="#E30A17"/>
+    <text x="4" y="5" font-family="Arial, Helvetica, sans-serif" font-size="4" fill="#ffffff" font-weight="700" text-anchor="middle">TR</text>
+  </g>
+</svg>
